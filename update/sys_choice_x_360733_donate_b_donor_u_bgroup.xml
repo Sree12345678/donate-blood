@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_bgroup" table="x_360733_donate_b_donor" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>O ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1004199adba63300a69564d7489619d9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>o ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>O-ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5004199adba63300a69564d7489619da</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>o-ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AB ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec04199adba63300a69564d7489619da</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>ab ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AB-ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c04199adba63300a69564d7489619db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>ab-ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a004199adba63300a69564d7489619e9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>a ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A-ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2004199adba63300a69564d7489619ea</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>a-ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac04199adba63300a69564d7489619ea</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>b ve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_bgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B-ve</label>
+            <language>en</language>
+            <name>x_360733_donate_b_donor</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c04199adba63300a69564d7489619eb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:21:43</sys_updated_on>
+            <value>b-ve</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_bgroup</element>
+            <name>x_360733_donate_b_donor</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:17:38</sys_created_on>
+            <sys_id>5804199adba63300a69564d7489619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_bgroup</sys_name>
+            <sys_package display_value="Donate _blood" source="x_360733_donate_b">b7899a07db123300a69564d74896199c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Donate _blood">b7899a07db123300a69564d74896199c</sys_scope>
+            <sys_update_name>sys_choice_x_360733_donate_b_donor_u_bgroup</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:17:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

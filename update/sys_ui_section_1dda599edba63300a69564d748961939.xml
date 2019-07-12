@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Address" section_id="1dda599edba63300a69564d748961939" sys_domain="global" table="x_360733_donate_b_donor" version="3" view="Registration">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_place</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:47:28</sys_created_on>
+            <sys_id>edda999edba63300a69564d7489619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address" display_value="Address" name="x_360733_donate_b_donor" sys_domain="global" view="7f835c47db8a7300a69564d7489619e0">1dda599edba63300a69564d748961939</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:47:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_state</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:47:28</sys_created_on>
+            <sys_id>61da999edba63300a69564d7489619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address" display_value="Address" name="x_360733_donate_b_donor" sys_domain="global" view="7f835c47db8a7300a69564d7489619e0">1dda599edba63300a69564d748961939</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:47:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_city</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:47:28</sys_created_on>
+            <sys_id>e1da999edba63300a69564d7489619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address" display_value="Address" name="x_360733_donate_b_donor" sys_domain="global" view="7f835c47db8a7300a69564d7489619e0">1dda599edba63300a69564d748961939</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:47:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_pincode</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:47:28</sys_created_on>
+            <sys_id>65da999edba63300a69564d7489619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address" display_value="Address" name="x_360733_donate_b_donor" sys_domain="global" view="7f835c47db8a7300a69564d7489619e0">1dda599edba63300a69564d748961939</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:47:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Address</caption>
+            <header>false</header>
+            <name>x_360733_donate_b_donor</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-12 03:47:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1dda599edba63300a69564d748961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Address</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Donate _blood" source="x_360733_donate_b">b7899a07db123300a69564d74896199c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Donate _blood">b7899a07db123300a69564d74896199c</sys_scope>
+            <sys_update_name>sys_ui_section_1dda599edba63300a69564d748961939</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-12 03:47:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Registration" name="Registration">7f835c47db8a7300a69564d7489619e0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="requester" max_length="40" name="x_360733_donate_b_requester" type="collection">
+        <element label="Blood group" max_length="40" name="blood_group" type="string"/>
+        <element label="mobile number" max_length="40" name="mobile_number" type="phone_number_e164"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="units" max_length="40" name="units" type="integer"/>
+    </element>
+</database>

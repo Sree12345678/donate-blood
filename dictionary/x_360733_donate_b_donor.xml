@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="donor" max_length="40" name="x_360733_donate_b_donor" type="collection">
+        <element label="phone number" mandatory="true" max_length="50" name="phone_number" type="phone_number_e164"/>
+        <element choice="3" default="20" label="age" max_length="40" name="u_age" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="20" sequence="0" value="20"/>
+                <element inactive_on_update="false" label="30" sequence="1" value="30"/>
+                <element inactive_on_update="false" label="40" sequence="2" value="40"/>
+                <element inactive_on_update="false" label="50" sequence="3" value="50"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="o-ve" label="bgroup" mandatory="true" max_length="40" name="u_bgroup" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="O ve" sequence="0" value="o ve"/>
+                <element inactive_on_update="false" label="O-ve" sequence="0" value="o-ve"/>
+                <element inactive_on_update="false" label="AB ve" sequence="1" value="ab ve"/>
+                <element inactive_on_update="false" label="AB-ve" sequence="2" value="ab-ve"/>
+                <element inactive_on_update="false" label="A ve" sequence="3" value="a ve"/>
+                <element inactive_on_update="false" label="A-ve" sequence="4" value="a-ve"/>
+                <element inactive_on_update="false" label="B ve" sequence="5" value="b ve"/>
+                <element inactive_on_update="false" label="B-ve" sequence="6" value="b-ve"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="city" mandatory="true" max_length="40" name="u_city" type="string"/>
+        <element label="Date/Time" mandatory="true" max_length="40" name="u_glide_date_time_3" type="glide_date_time"/>
+        <element choice="3" label="phone number" mandatory="true" max_length="40" name="u_integer_6" type="integer">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="name" mandatory="true" max_length="40" name="u_name" type="string"/>
+        <element label="pincode" mandatory="true" max_length="40" name="u_pincode" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="place" mandatory="true" max_length="40" name="u_place" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="state" mandatory="true" max_length="40" name="u_state" type="string"/>
+        <element choice="3" default="1" label="units" mandatory="true" max_length="40" name="u_units" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>
